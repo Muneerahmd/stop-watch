@@ -1,0 +1,28 @@
+h2{
+
+    color: deeppink;
+
+}
+
+button{
+
+    width: 80px;
+    height: 40px;
+    margin: 5px;
+    border-radius: 10px;
+    font-size: medium;
+    color: azure;
+}
+
+#bt-1{
+   
+    background-color: green;
+}
+#bt-2{
+    
+    background-color: red;
+}
+#bt-3{
+
+    background-color: blue;
+}
